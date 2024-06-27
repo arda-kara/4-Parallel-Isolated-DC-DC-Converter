@@ -1,6 +1,7 @@
 # Altium Designer PCB Project
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![image](https://github.com/arda-kara/4-Parallel-Isolated-DC-DC-Converter/assets/112433322/4d659d01-ab64-49e5-b408-6aa6080dc78e)
 
 ## Project Overview
 
