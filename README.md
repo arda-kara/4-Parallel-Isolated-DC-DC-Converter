@@ -3,6 +3,10 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![image](https://github.com/arda-kara/4-Parallel-Isolated-DC-DC-Converter/assets/112433322/4d659d01-ab64-49e5-b408-6aa6080dc78e)
 
+![image](https://github.com/arda-kara/4-Parallel-Isolated-DC-DC-Converter/assets/112433322/a22c2137-629c-4e5d-8f28-d9e4c2f78c10)
+
+![image](https://github.com/arda-kara/4-Parallel-Isolated-DC-DC-Converter/assets/112433322/bed59772-ad78-41e5-bbba-1c85f40e98a6)
+
 ## Project Overview
 
 This project involves designing a PCB using Altium Designer. The design includes custom components and libraries, ensuring a robust and efficient PCB layout. The main goal is to create a reliable and manufacturable PCB with isolated power outputs and comprehensive protection mechanisms.
